@@ -1,0 +1,2 @@
+kagglehub
+pandas numpy scipy scikit-learn
